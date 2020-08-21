@@ -1,3 +1,0 @@
-# shiqiaoxu
-python
-scv
